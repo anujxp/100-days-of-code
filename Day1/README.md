@@ -16,3 +16,15 @@ Today’s learning recap:
 ```bash
 javac JavaIntroduction.java
 java JavaIntroduction
+
+
+📄 Source Code (.java)
+      |
+      v
+🖥️ javac Compiler
+      |
+      v
+📄 Bytecode (.class)
+      |
+      v
+🖥️ java JVM → Output
