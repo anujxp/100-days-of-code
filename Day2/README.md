@@ -19,3 +19,9 @@ java VariablesExample
 java DataTypesExample
 java OperatorsArithmetic
 # ...and so on
+
+
+and t=in day two i revised the 3 topic  
+variabel and dataype 
+and 
+operators
