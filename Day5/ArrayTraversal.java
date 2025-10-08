@@ -1,25 +1,17 @@
-// ArrayTraversal.java
-// Traversing arrays using for, enhanced for, and while loops
+// Example: Traversing an array using for loop and enhanced for loop
 
 public class ArrayTraversal {
     public static void main(String[] args) {
-        int[] nums = {5, 10, 15, 20};
+        String[] names = {"Anuj", "Rahul", "Priya", "Simran"};
 
-        System.out.println("Classic for-loop:");
-        for (int i = 0; i < nums.length; i++) {
-            System.out.println("index " + i + " -> " + nums[i]);
+        System.out.println("Using traditional for loop:");
+        for (int i = 0; i < names.length; i++) {
+            System.out.println("names[" + i + "] = " + names[i]);
         }
 
-        System.out.println("\nEnhanced for-loop:");
-        for (int value : nums) {
-            System.out.println("value -> " + value);
-        }
-
-        System.out.println("\nWhile loop:");
-        int i = 0;
-        while (i < nums.length) {
-            System.out.println("nums[" + i + "] = " + nums[i]);
-            i++;
+        System.out.println("\nUsing enhanced for loop:");
+        for (String name : names) {
+            System.out.println(name);
         }
     }
 }
