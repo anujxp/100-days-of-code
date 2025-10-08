@@ -1,0 +1,10 @@
+Day05_Arrays/
+├─ ArraysBasics.java
+├─ ArrayInitialization.java
+├─ ArrayTraversal.java
+├─ ArrayOperations.java
+├─ MultiDimensionalArray.java
+├─ ArrayMethodsDemo.java
+├─ ArrayOfObjects.java
+├─ ArrayPitfalls.java
+└─ README.md
