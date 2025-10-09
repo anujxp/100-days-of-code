@@ -1,5 +1,4 @@
-// TwoPointerExamples.java
-// Illustrative two-pointer technique examples: pair-sum on sorted array, reverse array in-place, remove duplicates (sorted)
+
 
 import java.util.Arrays;
 

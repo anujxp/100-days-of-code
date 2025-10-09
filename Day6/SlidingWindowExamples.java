@@ -1,5 +1,4 @@
-// SlidingWindowExamples.java
-// Demonstrates fixed-size sliding window (max sum of k consecutive) and variable-size sliding window (min length with sum >= S)
+
 
 import java.util.Arrays;
 

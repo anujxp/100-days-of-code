@@ -1,5 +1,4 @@
-// DPExamples.java
-// Simple dynamic programming examples: Kadane's algorithm and Fibonacci (bottom-up) for clarity.
+
 
 import java.util.Arrays;
 

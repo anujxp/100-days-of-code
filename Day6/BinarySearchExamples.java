@@ -1,5 +1,4 @@
-// BinarySearchExamples.java
-// Classic binary search and finding left/right boundaries in a sorted array.
+
 
 import java.util.Arrays;
 

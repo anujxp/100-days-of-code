@@ -1,5 +1,4 @@
-// SortingBasedExamples.java
-// Shows how sorting can simplify problems: find closest pair to target, and prepare for two-pointer usage.
+
 
 import java.util.Arrays;
 

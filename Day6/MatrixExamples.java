@@ -1,5 +1,4 @@
-// MatrixExamples.java
-// Matrix techniques: search in sorted matrix (start top-right), basic traversal, transpose example.
+
 
 import java.util.Arrays;
 
